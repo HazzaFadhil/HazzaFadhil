@@ -72,12 +72,9 @@ I am a passionate Informatics student deeply interested in bridging the gap betw
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Streak Stats" width="100%"/>
+  <img src="https://vercel.app" alt="Profile Details" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://glitch.me" alt="Profile Views" /> visitors since today!
-</p>
 
 ---
 
