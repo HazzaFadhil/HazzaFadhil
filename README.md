@@ -16,7 +16,7 @@
 
 ### 💫 About Me
 
-I am a passionate Informatics student deeply interested in bridging the gap between clean code, interactive user interfaces, and immersive game experiences. Currently sharpening my skills in frontend architecture and exploring game design spaces.
+I am a passionate Informatics student deeply interested in bridging the gap between clean code, and interactive user interfaces, and mobile development. Currently sharpening my skills in frontend architecture and exploring mobile development.
 
 - 🔭 **Current Focus:** Building responsive web apps and exploring specialized UI/UX accessibility.
 - ⚡ **Hobbies:** Customizing mechanical keyboards, immersive story-driven gaming, and language learning.
