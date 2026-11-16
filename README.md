@@ -11,6 +11,8 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dhilhazza@gmail.com ! I'll try to respond as soon as I can.\
 
+<br>
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -27,16 +29,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/HazzaFadhil">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HazzaFadhil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HazzaFadhil&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
-### 🤝🏻 &nbsp;Connect with Me
 
 <!-- <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
