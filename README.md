@@ -10,9 +10,7 @@
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dhilhazza@gmail.com ! I'll try to respond as soon as I can.\
-
 <br>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
